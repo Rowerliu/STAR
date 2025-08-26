@@ -1,0 +1,1 @@
+abandon_idx_list = []
