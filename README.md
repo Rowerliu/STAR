@@ -135,7 +135,7 @@ Note:
 
 - default file name: `foreground_detect.pt`
 
-The original repository README provided the following download link:
+You can download the ckpt following:
 
 - <https://drive.google.com/file/d/1V_0IsgIKjEV2VxWYclyAhCfCoJ2dXMDs/view?usp=sharing>
 
